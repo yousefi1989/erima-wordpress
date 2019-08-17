@@ -1,5 +1,6 @@
 === Erima Zarinpal Donate ===
 Contributors: seyyed-amir
+Update to rest: alireza Yousefi
 Donate link: http://dblog.ir/?page_id=58
 Tags: donate, payment, zarinpal.com, zarinpal, dblog
 Requires at least: 3.0.1
@@ -32,7 +33,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 امکان انتخاب واحد پولي بر اساس تومان/ريال
 
-استفاده از وب سرويس nosoap براي پرداخت زرين پال
+استفاده از وب سرويس Rest براي پرداخت زرين پال
 
 نمايش متن خطاهاي احتمالي در زمان پرداخت بر اساس استاندارد زرين پال
 
@@ -73,7 +74,7 @@ Wordpress Shortcode
 == Changelog ==
 
 == Upgrade Notice ==
-
+ Change to rest service
 
 == Arbitrary section ==
 
